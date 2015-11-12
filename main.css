@@ -26,7 +26,8 @@ body{
 }
 
 i{
-	margin-left: 15px;
+	position: relative;
+	left: 10px;
 	color: #5CACEE;
 }
 
